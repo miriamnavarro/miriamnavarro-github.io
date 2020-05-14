@@ -4,9 +4,9 @@
 
 ## Creación Multimedia Interactiva (Fac. Bellas artes)
 
-**Autor:** 
+**Autor:MIRIAM NAVARRO PIÑA
 
-**Título:** 
+**Título: PORTFOLIO
 
 **Resumen:**
 
