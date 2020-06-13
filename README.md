@@ -26,7 +26,7 @@ Licencia Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC 
 
 Fecha : 12/06/2020
 
-Medios (donde se tiene presencia relacionada):
+Medios (donde se tiene presencia relacionada):En github
 
 Github
 
@@ -41,44 +41,33 @@ En el proyecto  hay una secuencia de ilustraciones digitales y un video que mues
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
 Etapa 1: Ideación de proyecto
-Investigación de campo (propuestas inspiradoras para el proyecto)
+Para realizar mi proyecto me he inspirado en variso portfolios de otros artistas. 
 
-Portfolio Leonardi Web page para idear cómo organizar el material
-Motivación de la propuesta
 
-Este proyecto es interesante porque ...
+Este proyecto es interesante porque reune todos los aspectos artisticos de manera ordenada.
 
 Publico / audiencia
 
 Orientado a
 Etapa 2: Desarrollo / actividades realizadas
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+En el portfolio encontramos una pantalla princupal con cuatro botones que nos conducen a la biografia, las ilustraciones digitales, los creditos y por ultimo un pequeño juego a modo de encuesta, todo ello ha sido reseulto mediante botones que nos permiten acceder a cada apartado y volver a salir. 
 
 Juego.
 Video
-Instrucciones y ayuda al usuario
+Biografia
+creditos
 Menús y elementos de navegación (botones)
 etc.
-Etapa 3: Problemas identificados
-(que consideras que no funciona correctamente y por qué )
 
-4. Conclusiones
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-5 Referencias
-**Artículos y blogs **
-
-Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) Podcasting: A new technology in search of viable business modelsFirst Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
+Como referencia he utilizado otros portfolios de otros artistas. 
 Recursos y materiales audiovisuales:
 
-Musica:
-Imágenes:
-Tipografía
+Musica:Sound_Musica2
+Imágenes: Ilustraciuones realizadas por Miriam Navarro. 
+Tipografía: Amatic y Megrim
 Herramientas utilizadas
 
 Hippani Animator 5.1
 (imagen de la licencia, copiar y pegar aquí la correcta)
 
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2020
+Junio 2020
